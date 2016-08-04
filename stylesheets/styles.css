@@ -310,7 +310,7 @@ a.arrow {
 }
 
 a.linkedin {
-  backgorun: url(../images/linkedin.png) no-repeat;
+  background: url(../images/linkedin.png) no-repeat;
 }
 
 a.github {
