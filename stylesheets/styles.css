@@ -22,6 +22,11 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+#profile-pic {
+  width: 60%;
+  height: 60%;
+}
+
 
 /* Base text styles */
 
