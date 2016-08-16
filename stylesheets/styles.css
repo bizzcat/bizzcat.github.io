@@ -46,8 +46,8 @@ time, mark, audio, video {
 }
 
 .story {
-  padding: 8px;
-  background-color: rgba(30, 30, 30, 0.06);
+  padding: 4px;
+  background-color: rgba(30, 30, 30, 0.05);
   border-radius: 5px;
   text-align: justify;
 }
