@@ -39,6 +39,12 @@ time, mark, audio, video {
   text-align: center;
 }
 
+.bold-italics {
+  font-style: italic;
+  font-style: oblique;
+  font-style: italic oblique;
+}
+
 
 
 
