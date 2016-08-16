@@ -27,6 +27,16 @@ time, mark, audio, video {
   height: 134px;
 }
 
+#table-of-contents {
+  text-indent: 50px;
+}
+
+#table-of-contents > li {
+  text-indent: 10px;
+}
+
+
+
 
 /* Base text styles */
 
