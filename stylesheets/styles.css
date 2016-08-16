@@ -28,11 +28,11 @@ time, mark, audio, video {
 }
 
 #table-of-contents {
-  text-indent: 50px;
+  margin-left: 50px;
 }
 
 #table-of-contents > li {
-  text-indent: 10px;
+  margin-left: 20px;
 }
 
 
