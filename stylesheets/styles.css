@@ -50,6 +50,7 @@ time, mark, audio, video {
   padding: 8px;
   background-color: rgba(30, 30, 30, 0.06);
   border-radius: 5px;
+  text-align: justify;
 }
 
 
