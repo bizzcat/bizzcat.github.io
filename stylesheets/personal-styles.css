@@ -6,6 +6,8 @@
 #table-of-contents {
   text-align: center;
   margin-left: 0px;
+  display: flex;
+  align-items: center;
 }
 
 #table-of-contents > li {
