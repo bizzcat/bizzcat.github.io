@@ -47,3 +47,7 @@ p {
   border-style: solid;
   border-color: transparent;
 }
+
+a.app-link {
+  color:#C30000;
+}

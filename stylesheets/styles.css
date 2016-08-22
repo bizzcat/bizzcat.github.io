@@ -329,9 +329,7 @@ a.pdf {
 	background: url(../images/octocat-small.png) no-repeat 1px;
 }
 
-a.app-link {
-  font-size: 1.5em;
-}
+
 
 a.buttons:hover {
 	color: #fff;
