@@ -37,7 +37,6 @@ time, mark, audio, video {
 
 .chapter {
   text-align: center;
-
 }
 
 .bold-italics {
@@ -53,12 +52,13 @@ time, mark, audio, video {
   text-align: justify;
 }
 
-
 .container {
   padding: 0px;
   width: inherit;
   height: auto;
 }
+
+
 
 
 
