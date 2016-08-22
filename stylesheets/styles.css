@@ -13,7 +13,7 @@ fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
-menu, nav, output, ruby, section, .container, summary,
+menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
   margin: 0;
   padding: 0;
@@ -56,6 +56,8 @@ time, mark, audio, video {
 
 .container {
   padding: 0px;
+  width: inherit;
+  height: auto;
 }
 
 
@@ -376,7 +378,7 @@ a.buttons:hover {
 
 /* Section - for main page content */
 
-section, .container  {
+section {
   width:650px;
   float:right;
   padding-bottom:50px;
@@ -400,7 +402,7 @@ footer {
     margin:0;
   }
 
-  header, section, footer, .container {
+  header, section, footer {
     float:none;
     position:static;
     width:auto;
@@ -416,7 +418,7 @@ footer {
     padding-right:320px;
   }
 
-  section, .container {
+  section {
     padding:20px 84px 20px 50px;
     margin:0 0 20px;
   }
@@ -442,7 +444,7 @@ footer {
 		margin-right: 0;
   }
 
-	section, .container {
+	section {
     padding:10px 0 10px 20px;
     margin:0 0 30px;
   }
